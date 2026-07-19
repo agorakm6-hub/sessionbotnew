@@ -1,0 +1,15 @@
+{
+  "name": "username-finder",
+  "version": "1.0.0",
+  "description": "Telegram bot for username search",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "telegram": "^2.17.0",
+    "sqlite3": "^5.1.6",
+    "sqlite": "^5.0.1"
+  }
+}
