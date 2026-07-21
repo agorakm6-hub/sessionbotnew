@@ -1,0 +1,12 @@
+{
+  "name": "sessionbotnew",
+  "version": "1.0.0",
+  "main": "session.js",
+  "scripts": { "start": "node session.js" },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7",
+    "sqlite": "^5.1.1",
+    "telegram": "^2.26.22"
+  }
+}
